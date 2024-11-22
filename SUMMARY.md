@@ -3,6 +3,7 @@
 * [Gitbook Template](README.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
+    * [新手向过渡攻略之英雄选择](articles/newbie-guide-hero-selection-89-20241122-3-1-1732257481.md)
     * [新手向过渡攻略之英雄选择](articles/new-player-hero-selection-guide-89-20241122-2-1-1732257283.md)
     * [新手向过渡攻略之英雄选择](articles/new-player-hero-selection-guide-89-20241122-2-1-1732257283.md)
     * [月圆之夜新手英雄选择](articles/new-heroes-selection-in-the-night-of-the-full-moon-89-20241122-1-1-1732257124.md)
