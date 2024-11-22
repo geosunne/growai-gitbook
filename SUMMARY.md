@@ -3,6 +3,7 @@
 * [Gitbook Template](README.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
+    * [月圆之夜S5-上分英雄介绍](articles/moonlight-night-s5-ranking-heroes-89-20241122-6-1-1732267812.md)
     * [月圆之夜S5-强势英雄介绍](articles/moonlight-night-s5-strong-heroes-introduction-89-20241122-5-1-1732267593.md)
     * [月圆之夜S5-强势英雄介绍](articles/moonlight-night-s5-strong-heroes-introduction-89-20241122-5-1-1732267593.md)
     * [新手向过渡攻略之英雄选择](articles/hero-selection-guide-89-20241122-4-1-1732258800.md)
